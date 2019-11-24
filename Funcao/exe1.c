@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+void dobro(int n){
+    n *= n;
+    printf("%d", n);
+}
+
 int main(){
-    printf("hellooooo wooooorld!");
+    int n = 2;
+    dobro(n);
+
 }
