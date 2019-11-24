@@ -1,2 +1,0 @@
-Funcao/*.exe
-Funcao/*.o
