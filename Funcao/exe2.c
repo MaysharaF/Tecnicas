@@ -13,7 +13,7 @@ void data(int dia, int mes, int ano){
 }
 
 
- main(){
+ int main(){
     int dia, mes, ano;
 
     printf("Dia: ");
